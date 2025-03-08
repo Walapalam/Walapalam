@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey!<br>Helloo! :)<br><br>Welcome<br>Helloo! My name is Raqeeb Rameez, undergrad at University of Westminster following BSc. in Computer Science.<br><br>Huge interest in coding and gaming ^_^<br><br>Skills<br><br>Competitive Programming<br>Graphic Designing<br>Video Editing
+Helloo! :)<br><br>Welcome<br>Helloo! My name is Raqeeb Rameez, undergrad at University of Westminster following BSc. in Computer Science.<br><br>Huge interest in coding and gaming ^_^<br><br>Skills<br><br>Competitive Programming<br>Graphic Designing<br>Video Editing
 
 
 ## 🌐 Socials:
