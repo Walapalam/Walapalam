@@ -1,6 +1,14 @@
-# 💫 About Me:
-Helloo! :)<br><br>Welcome<br>Helloo! My name is Raqeeb Rameez, undergrad at University of Westminster following BSc. in Computer Science.<br><br>Huge interest in coding and gaming ^_^<br><br>Skills<br><br>Competitive Programming<br>Graphic Designing<br>Video Editing
+# Hello, I'm Raqeeb Rameez! 👋
 
+Welcome to my GitHub profile! I'm an undergraduate Computer Science student at the University of Westminster, pursuing a BSc in Computer Science. I have a strong passion for coding, gaming, and leveraging technology to build innovative solutions. Currently, I am focused on developing **VisuaLit**, an AI-powered ebook reader application that brings visualizations to life.
+
+## 📚 Current Project: VisuaLit
+I am currently working on **VisuaLit**, a unique ebook reader application that integrates AI to generate visual representations of storybook/novel content. This project aims to enhance the reading experience by merging literature with immersive AI-driven visuals, providing a more engaging and accessible way for users to interact with books.
+
+## 💡 Interests
+- **Artificial Intelligence & Machine Learning**: I am deeply interested in AI, machine learning, and data science. I’m always looking for opportunities to apply AI in practical, real-world scenarios.
+- **Gaming**: Gaming is both a hobby and a passion of mine, particularly in how AI and gaming intersect to create immersive experiences.
+- **Creative Design**: I enjoy graphic designing and video editing, allowing me to explore creativity through digital mediums.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_raqeeeeb_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raqeeb-rameez) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/user25034432) 
@@ -21,5 +29,8 @@ Helloo! :)<br><br>Welcome<br>Helloo! My name is Raqeeb Rameez, undergrad at Univ
 
 ---
 [![](https://visitcount.itsvg.in/api?id=walapalam&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🔗 Let's Connect!
+Feel free to check out my repositories and reach out if you’re interested in collaborating on any AI, software engineering, or creative projects. I'm always open to learning new things and contributing to exciting challenges!
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
