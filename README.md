@@ -21,6 +21,7 @@ I am currently working on **VisuaLit**, a unique ebook reader application that i
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=walapalam&theme=dark&hide_border=false&include_all_commits=true&count_private=false" /><br/>
+<br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=walapalam&theme=dark&hide_border=false" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walapalam&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 
