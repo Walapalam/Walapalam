@@ -126,12 +126,12 @@
     <circle cx="16" cy="15" r="4" fill="#2ea043" />
     
     <!-- Quest Line -->
-    <text x="28" y="19" font-family="'SF Mono', Menlo, monospace" font-size="11" fill="#8b949e">
-      MISSION: <tspan fill="#c9d1d9">Architecting deterministic POS, Hermes agent frameworks, and resilient networks.</tspan>
+    <text x="28" y="18.5" font-family="'SF Mono', Menlo, Monaco, monospace" font-size="9.5" fill="#8b949e">
+      MISSION: <tspan fill="#c9d1d9">Architecting deterministic POS, Hermes agent swarms, and resilient networks.</tspan>
     </text>
 
     <!-- Right-aligned Gamer Vitals -->
-    <text x="838" y="19" text-anchor="end" font-family="'SF Mono', Menlo, monospace" font-size="11" fill="#e3b341">
+    <text x="838" y="18.5" text-anchor="end" font-family="'SF Mono', Menlo, Monaco, monospace" font-size="9.5" fill="#e3b341">
       ⚡ MANA: 100% COFFEE · STATUS: ACTIVE
     </text>
   </g>

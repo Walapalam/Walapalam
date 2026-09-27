@@ -67,7 +67,7 @@
 
   <!-- Positioning Subtitle -->
   <g transform="translate(32, 134)">
-    <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'SF Pro Text', Helvetica, sans-serif" font-size="15" font-weight="400" fill="#c9d1d9">
+    <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'SF Pro Text', Helvetica, sans-serif" font-size="13" font-weight="400" fill="#c9d1d9">
       Systems &amp; Full-Stack Engineer specializing in <tspan fill="#38bdf8" font-weight="500">Hermes Agent Orchestration</tspan>, <tspan fill="#38bdf8" font-weight="500">Distributed Platforms</tspan>, and <tspan fill="#38bdf8" font-weight="500">Odoo ERP / POS Core</tspan>.
     </text>
   </g>
