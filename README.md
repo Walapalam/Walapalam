@@ -41,14 +41,15 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![TMUX](https://img.shields.io/badge/Headless_Worker_Fleets-161b22?style=flat-square&logo=tmux&logoColor=1BB91F)
 
-#### 🛡️ Edge Infrastructure & Zero-Trust Mesh
-![WireGuard](https://img.shields.io/badge/WireGuard_Mesh-88171A?style=flat-square&logo=wireguard&logoColor=white)
-![TP-Link Omada](https://img.shields.io/badge/TP--Link_Omada-005B94?style=flat-square&logo=tplink&logoColor=white)
+#### 🖥️ Server Infrastructure & Homelab Networking
+![Homelab](https://img.shields.io/badge/Homelab-Self--Hosted-161b22?style=flat-square&logo=homeassistant&logoColor=41BDF5)
+![Proxmox](https://img.shields.io/badge/Proxmox_VE-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![TP-Link Omada](https://img.shields.io/badge/TP--Link_Omada_SDN-005B94?style=flat-square&logo=tplink&logoColor=white)
+![Bare-Metal](https://img.shields.io/badge/Bare--Metal_Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker_Engine-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux_Kernel-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_Zero--Trust-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Coolify](https://img.shields.io/badge/Coolify_Orchestration-6B21A8?style=flat-square&logo=serverless&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx_Reverse_Proxy-009639?style=flat-square&logo=nginx&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Tunnels-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 #### 🛠️ Application Engineering & Mobile
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -64,7 +65,7 @@
 
 * **📦 High-Reliability Odoo ERP & POS Engine** — Custom Odoo 19 POS restaurant engine with strict UUID concurrency locking, dynamic split-ticket retention, ESC/POS kitchen routing, and dual-layer terminal limits.
 * **⚡ Hermes Agent Orchestration & Swarms** — Architecting low-latency Inter-Process Communication (IPC) pipelines, MCP servers, and autonomous Hermes worker daemons with persistent memory graphs.
-* **🛡️ Zero-Trust Site-to-Site Infrastructure** — Edge network failover automation, Omada multi-WAN gateway routing, and air-gapped server promotion pipelines.
+* **🖥️ Homelab & Server Infrastructure** — Bare-metal virtualization (Proxmox), Omada multi-WAN network routing, self-hosted container stacks, and high-availability reverse proxy topologies.
 * **🚀 VisuaLit & Open R&D** — Multimodal AI exploratory reading pipelines and developer tooling.
 
 ---
